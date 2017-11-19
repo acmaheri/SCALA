@@ -1,7 +1,7 @@
 # SCALA
 
 An Android application for the online signal processing and classification of time-series data. 
-As soon as the paper is published, the code will be uploaded here!
+
 
 
    Copyright 2017,  Sarah Blum
