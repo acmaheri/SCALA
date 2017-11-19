@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/mnt/datahdd/Documents/Phd/SCALA/app/src/main/jniLibs"><file name="armeabi/liblslAndroid.so" path="/mnt/datahdd/Documents/Phd/SCALA/app/src/main/jniLibs/armeabi/liblslAndroid.so"/></source></dataSet><dataSet config="debug"><source path="/mnt/datahdd/Documents/Phd/SCALA/app/src/debug/jniLibs"/></dataSet></merger>
